@@ -1,0 +1,6 @@
+﻿trade_date,ticker,quantity,price,currency,fees
+2024-10-01,AAPL,10,175.2,USD,1.0
+2024-11-15,AAPL,5,189.5,USD,0.5
+2024-12-02,MSFT,10,370.1,USD,1.0
+2025-01-10,VTI,20,230.7,USD,1.0
+2025-02-05,TLT,12,97.8,USD,1.0

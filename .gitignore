@@ -1,1 +1,16 @@
-﻿__pycache__/
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Project outputs
+output/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Power BI (optional to ignore)
+# Remove the next line if you WANT to push your PBIX file
+*.pbix
