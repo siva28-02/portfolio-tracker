@@ -1,8 +1,6 @@
-﻿\# 💼 Investment Portfolio Performance Tracker
+﻿Investment Portfolio Performance Tracker
 
-
-
-\### 📘 Overview
+**Overview**
 
 This project is designed to \*\*track investment portfolios\*\* and calculate performance and risk metrics using \*\*Python\*\* and \*\*Power BI\*\*.  
 
@@ -17,11 +15,6 @@ It automates:
 \- Dashboard visualization using Power BI
 
 
-
----
-
-
-
 \### 🧩 Tech Stack
 
 \- \*\*Python 3.10+\*\*
@@ -30,15 +23,10 @@ It automates:
 
 \- \*\*Matplotlib / Power BI\*\* for visualization
 
-\- \*(Optional)\* Microsoft Power Apps for front-end integration
 
 
 
----
-
-
-
-\### ⚙️ How to Run
+\- How to Run
 
 
 
@@ -70,55 +58,10 @@ positions\_daily.csv	Daily position values
 
 portfolio\_daily.csv	Portfolio KPIs – returns, volatility, Sharpe, Beta, Alpha
 
-🧠 Key Metrics
 
 
 
-Cumulative Return
 
-
-
-Annual Volatility
-
-
-
-Sharpe Ratio
-
-
-
-Maximum Drawdown
-
-
-
-Beta vs Benchmark (SPY)
-
-
-
-Tracking Error
-
-
-
-Alpha (Annualized)
-
-
-
-🖼️ Power BI Dashboard (optional)
-
-
-
-Visualize portfolio trends using Power BI:
-
-
-
-Total portfolio value over time
-
-
-
-Risk metrics charts (Volatility, Drawdown)
-
-
-
-Holdings breakdown by ticker or sector
 
 
 
